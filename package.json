@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+   
   "scripts": {
     "dev": "vite",
     "start": "vite",
@@ -23,7 +23,8 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
-    "vite": "^4.3.2"
+    "vite": "^4.3.2",
+    "nodemon": "^3.0.3"
   },
   "keywords": [],
   "author": "",
