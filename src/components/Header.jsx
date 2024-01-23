@@ -2,10 +2,10 @@ import { useState } from 'react';
 import NavTabs from './NavTabs';
 import Project from './Project';
 import Footer from './Footer';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import Portfolio from './pages/Portfolio';
-import Resume from './pages/Resume';
+import About from '../pages/About';
+import Contact from '../pages/Contact';
+import Portfolio from '../pages/Portfolio';
+import Resume from '../pages/Resume';
 
 export default function Header() {
     const [currentPage, setCurrentPage] = useState('About');
